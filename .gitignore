@@ -27,3 +27,5 @@ Thumbs.db
 
 # Installer files
 *.msi
+
+.claude/
